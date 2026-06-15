@@ -52,31 +52,7 @@ Blood stock page
 Donors history page 
 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-Add caption explaining your workflow
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-Add caption explaining connections
-
-![Schematic](Add your schematic diagram here)
-Add caption explaining the schematic
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-List out all components shown
-
-![Build](Add photos of build process here)
-Explain the build steps
-
-![Final](Add photo of final product here)
-Explain the final build
 
 ### Project Demo
 # Video
@@ -91,7 +67,7 @@ HOW TO USE
 [Add any extra demo materials/links]
 
 ## Team Contributions
--CHAMINDA SATHEESH: idea generation, database integration
+-Chaminda Satheesh: idea generation, database integration
 - Annliya Jiju: frontend development,UI/UX
 - Bhavana B: backend development, deployment set up
 
