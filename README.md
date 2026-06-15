@@ -30,11 +30,6 @@ For Software:
 - SQLite,Flak-Mail
 - ChatGPT(for code assistance),Render(for deployment)
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
 ### Implementation
 For Software:
 # Installation
